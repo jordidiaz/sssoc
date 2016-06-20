@@ -1,0 +1,25 @@
+{
+  "name": "sssoc",
+  "version": "1.0.0",
+  "description": "Stupid Simple Separation Of Concerns",
+  "main": "api.js",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordidiaz/sssoc.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6"
+  ],
+  "author": "Jordi Díaz Añorga",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
